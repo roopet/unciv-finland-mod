@@ -20,6 +20,6 @@
 		"cost": 40,
 		"maintenance": 1,
 		"requiredTech": "Pottery",
-		"uniques": ["[+2 Happiness] from [Lakes] tiles [in this city]"
+		"uniques": ["[+2 Happiness] from [Lakes] tiles [in this city]"]
 	}
 ]
