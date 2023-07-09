@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Peruskoulu",
-		"replaces": "School",
+		"replaces": "Public School",
 		"uniqueTo": "Finland",
 		"science": 3,
 		"specialistSlots": {"Scientist": 1},
