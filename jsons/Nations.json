@@ -10,7 +10,7 @@
 		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
 		
 		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
+		"attacked": "You'll be finnished.",
 		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
 		"introduction": "As superior galactic entities, you are not worthy of our attention.",
 		
@@ -33,14 +33,6 @@
 		"cities": ["Helsinki","Turku","Tampere","Oulu","Espoo","Vantaa","Jyväskylä","Kuopio","Lahti",
 			"Pori","Kouvola","Joensuu","Lappeenranta","Hämeenlinna","Vaasa","Seinäjoki","Rovaniemi","Mikkeli","Porvoo",
 			"Salo","Kotka","Kokkola","Hyvinkää","Lohja","Järvenpää","Rauma","Kajaani","Savonlinna","Kerava","Tuusula",
-    "Kirkkonummi",
-    "Vihti",
-    "Imatra",
-    "Nokia",
-    "Varkaus",
-    "Riihimäki",
-    "Kauniainen",
-    "Ylöjärvi",
-    "Kangasala"]
+			"Kirkkonummi","Vihti","Imatra","Nokia","Varkaus","Riihimäki","Kauniainen",]
 	}
 ]
