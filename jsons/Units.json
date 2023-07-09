@@ -1,17 +1,35 @@
 [
 	{
-		"name": "Phasers",
-		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
+		"name": "Kenttätykistö",
+		"unitType": "Siege",
+		"uniqueTo": "Finland",
+		"replaces": "Artillery",
 		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
-	}
+		"strength": 21,
+		"rangedStrength": 33,
+		"range": 3,
+		"cost": 320,
+		"requiredTech": "Dynamite",
+		"upgradesTo": "Rocket Artillery",
+		"uniques": ["[+200]% Strength <vs cities> <when attacking>","No defensive terrain bonus",
+			"Must set up to ranged attack","[-1] Sight", "Never appears as a Barbarian unit"],
+		"promotions": ["Indirect Fire", "Barrage I"],
+		"attackSound": "artillery"
+	},
+	{
+		"name": "Hakkapeliitta",
+		"unitType": "Mounted",
+		"replaces": "Lancer",
+		"uniqueTo": "Finland",
+		"movement": 4,
+		"strength": 25,
+		"cost": 185,
+		"requiredTech": "Metallurgy",
+		"requiredResource": "Horses",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>"],
+		"promotions": ["[Hakkapeliitta] ability","Formation I"],
+		"upgradesTo": "Anti-Tank Gun",
+		"obsoleteTech": "Combined Arms",
+		"attackSound": "horse"
+	},
 ]
