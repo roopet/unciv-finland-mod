@@ -17,7 +17,7 @@
 		"attackSound": "artillery"
 	},
 	{
-		"name": "Hakkapeliitta",
+		"name": "Hakkapeliitta oikea",
 		"unitType": "Mounted",
 		"replaces": "Lancer",
 		"uniqueTo": "Finland",
