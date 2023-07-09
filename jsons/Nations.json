@@ -3,7 +3,7 @@
 		"name": "Finland",
 		"leaderName": "Kekkonen",
 		"adjective": ["finnish"],
-		"startBias": ["Snow"],
+		"startBias": ["Forest"],
 		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "We come in peace!",
